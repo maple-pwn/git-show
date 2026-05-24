@@ -37,5 +37,6 @@ git push origin main
 ## 实践记录
 
 > 请在此新增一行，记录你的收获。格式：`- [用户名] 你的收获`
+- crisqyxw Git好好玩！
 
 - [demo-speaker] Git 协作的核心是把修改过程交代清楚。
