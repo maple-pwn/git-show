@@ -40,5 +40,4 @@ git push origin main
 - crisqyxw Git好好玩！
 
 - [demo-speaker] Git 协作的核心是把修改过程交代清楚。
-
-- [taem] 我学会了把一次改动拆成清晰可追溯的提交。
+- [allay161] 学习 Git 分支操作
