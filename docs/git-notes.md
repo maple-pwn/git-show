@@ -40,4 +40,4 @@ git push origin main
 - crisqyxw Git好好玩！
 
 - [demo-speaker] Git 协作的核心是把修改过程交代清楚。
-[B1ank799] It's interesting.
+- [B1ank799] It's interesting.
